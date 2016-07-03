@@ -1,0 +1,33 @@
+{
+    "name": "character-scanner",
+    "homepage": "https://github.com/khrome/character-scanner",
+    "version": "0.0.1",
+    "main": "character-scanner.js",
+    "description": "A Scanning Buffer for detecting and extracting character patterns",
+    "keywords": [
+        "character",
+        "scanner"
+    ],
+    "author": "Abbey Hawk Sparrow <@khrome> (http://patternweaver.com)",
+    "contributors": [],
+    "bugs": {
+        "url": "https://github.com/khrome/character-scanner/issues"
+    },
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/khrome/character-scanner.git"
+    },
+    "dependencies": {
+        "extended-emitter": "*"
+    },
+    "devDependencies": {
+        "mocha": "*",
+        "should": "*"
+    },
+    "optionalDependencies": {
+    },
+    "engines": {
+        "node": "*"
+    }
+}
