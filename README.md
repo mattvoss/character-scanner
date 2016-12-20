@@ -1,5 +1,10 @@
 character-scanner.js
 ====================
+
+[![NPM version](https://img.shields.io/npm/v/character-scanner.svg)]()
+[![npm](https://img.shields.io/npm/dt/character-scanner.svg)]()
+[![Travis](https://img.shields.io/travis/khrome/character-scanner.svg)]()
+
 This is a scanner for scanning streams of characters (like you get from keyboard or "wedge" devices). It's built to be a common basis for wedge drivers, but could also be used directly.
 
 Usage
