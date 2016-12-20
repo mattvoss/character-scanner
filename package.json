@@ -1,7 +1,7 @@
 {
     "name": "character-scanner",
     "homepage": "https://github.com/khrome/character-scanner",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "main": "character-scanner.js",
     "description": "A Scanning Buffer for detecting and extracting character patterns",
     "keywords": [
