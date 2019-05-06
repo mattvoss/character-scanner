@@ -19,7 +19,7 @@
         "url": "git://github.com/khrome/character-scanner.git"
     },
     "dependencies": {
-        "extended-emitter": "*"
+        "extended-emitter": "mattvoss/extended-emitter"
     },
     "devDependencies": {
         "mocha": "*",
